@@ -28,6 +28,10 @@ code --install-extension vscode-file-creator
 3. Enter the file name and select a template (if enabled).
 4. Press `Enter` to create and open the file.
 
+<br/>
+
+![VSCode File Creator Demo](/2025-02-28%2000.34.43.gif)
+
 ## ⚡ Configuration
 Customize the extension via `settings.json`:
 ```json
